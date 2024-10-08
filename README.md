@@ -20,7 +20,7 @@
 
 데이터셋은 [Kaggle](https://www.kaggle.com/competitions/isic-2024-challenge)에서 수집했습니다.
 
-개인적으로 Kaggle API 키를 발급받고 데이터를 불러와야합니다.
+데이터가 대용량이므로, 개인적으로 Kaggle API 키를 발급받고 .zip 파일을 불러온 후 압축을 푸세요.
 
 훈련 데이터는 이미지 데이터와 메타 데이터로 구성되어있습니다.
 
