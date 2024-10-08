@@ -82,6 +82,9 @@
 
 에포크(Epoch) 1만 돌렸을 때 pAUC 점수는 약 0.167[0.0, 0.2]
 
+## 연구 논문
+
+[Skin Cancer Classification using Deep Learning](https://drive.google.com/file/d/1hsKeB9cscI6wswlgyTnQX5Il1fZC6LpP/view)
 
 ## License
 [MIT LICENSE](https://github.com/paulms77/Skin-cancer-detection-using-3D-TBP/blob/main/LICENSE)
