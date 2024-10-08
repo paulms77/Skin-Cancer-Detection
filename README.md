@@ -79,3 +79,4 @@
 
 
 ## License
+[MIT LICENSE](https://github.com/paulms77/Skin-cancer-detection-using-3D-TBP/blob/main/LICENSE)
