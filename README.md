@@ -40,11 +40,11 @@
     * ##### 배경 제거
     * ##### 마커/잉크 제거
 
-Before (처리 전) :
-    <img width="500" alt="image" src="https://github.com/user-attachments/assets/a606d5aa-b9a4-44c7-8ae2-76ad42a0ec46">
-    
-After (처리 후) : 
-    <img width="500" alt="image" src="https://github.com/user-attachments/assets/e931e572-e5e2-4d56-99f7-b175b772671b">
+    * ##### Before (처리 전) :
+      <img width="500" alt="image" src="https://github.com/user-attachments/assets/a606d5aa-b9a4-44c7-8ae2-76ad42a0ec46">
+        
+    * ##### After (처리 후) : 
+      <img width="500" alt="image" src="https://github.com/user-attachments/assets/e931e572-e5e2-4d56-99f7-b175b772671b">
     
   * #### 메타 데이터 처리
     * ##### 피처 엔지니어링 -> 새로운 분석 지표 44개를 추가적으로 생성
